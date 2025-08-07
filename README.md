@@ -4,7 +4,7 @@ This is the **first project** in the [freeCodeCamp Scientific Computing with Pyt
 
 ## 🧮 Project Description
 
-The goal of this project is to write a function named `arithmetic_arranger()` that receives a list of arithmetic problems and returns the problems arranged vertically and side-by-side.
+The goal of this project is to write a function named `arithmetic_arranger()` that receives a list of arithmetic problems and returns the problems arranged vertically and side-by-side. It handles only simple operations, such as additions and subtractions.
 
 It can also optionally display the answers.
 
